@@ -11,7 +11,7 @@ This project is a simple HTML and CSS-based webpage that focuses on creating a s
 - **Subscription Section:** Includes a form for users to subscribe with their email.
 
 ## Project Structure
-project-folder/
+subscription_page/
 |-- index.html        # Main HTML file
 |-- styles.css        # Main CSS file
 |-- README.md         # Project documentation (this file)
